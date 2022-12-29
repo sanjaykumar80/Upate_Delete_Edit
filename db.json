@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "Sanjay",
+      "mobile": "123457",
+      "address": "Bangalore ",
+      "gender": "Male",
+      "email": "sanjay@gmail.com"
+    },
+    {
+      "id": 1,
+      "fname": "Karan",
+      "mobile": "123464729",
+      "address": "Bhopal",
+      "gender": "Male",
+      "email": "Karan@gmail.com"
+    },
+    {
+      "id": 1,
+      "fname": "Abhi",
+      "mobile": "123457972",
+      "address": "Delhi ",
+      "gender": "Male",
+      "email": "Abhi@gmail.com"
+    },
+    {
+      "id": 1,
+      "fname": "Raju",
+      "mobile": "154457972",
+      "address": "Bihar ",
+      "gender": "Male",
+      "email": "Raju@gmail.com"
+    },
+    {
+      "id": 1,
+      "fname": "Shrikant",
+      "mobile": "1457972",
+      "address": "Patna ",
+      "gender": "Male",
+      "email": "Shrikant@gmail.com"
+    },
+    {
+      "id": 1,
+      "fname": "Amresh",
+      "mobile": "154457972",
+      "address": "Goa ",
+      "gender": "Male",
+      "email": "Amresh@gmail.com"
+    }
+  ]
+}
